@@ -1,3 +1,4 @@
 # HomonymJoy
 HomonymJoy's first repository
-Juast a practice.
+Just a practice.
+Just another practice.
